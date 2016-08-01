@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{C2C5F5A6-A361-543E-8D00-5F495BBD67DA}") = "Teice's Adventure(RPG)", "Assembly-CSharp.csproj", "{7137F58B-8BF4-C140-4484-7015EB8025F0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7137F58B-8BF4-C140-4484-7015EB8025F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7137F58B-8BF4-C140-4484-7015EB8025F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7137F58B-8BF4-C140-4484-7015EB8025F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7137F58B-8BF4-C140-4484-7015EB8025F0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
